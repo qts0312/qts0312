@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qts0312&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![qts0312's GitHub stats](https://github-readme-stats-ten-eta-52.vercel.app/api?username=qts0312)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qts0312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-ten-eta-52.vercel.app/api/top-langs/?username=qts0312&layout=compact&exclude_repo=Pintos)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=qts0312)](https://git.io/streak-stats)
 
 <!--
-**qts0312/qts0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EchoStone1101/EchoStone1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
