@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats-ten-eta-52.vercel.app/api/top-langs/?username=qts0312&layout=compact&exclude_repo=Pintos)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=qts0312)](https://git.io/streak-stats)
-
 <!--
 **EchoStone1101/EchoStone1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
