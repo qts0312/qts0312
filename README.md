@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![qts0312's GitHub stats](https://github-readme-stats-ten-eta-52.vercel.app/api?username=qts0312)](https://github.com/anuraghazra/github-readme-stats)
+[![qts0312's GitHub stats](https://github-readme-stats-ten-eta-52.vercel.app/api?username=qts0312&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-ten-eta-52.vercel.app/api/top-langs/?username=qts0312&layout=compact&exclude_repo=Pintos)
 
