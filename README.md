@@ -2,7 +2,7 @@
 
 [![qts0312's GitHub stats](https://github-readme-stats-ten-eta-52.vercel.app/api?username=qts0312&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-ten-eta-52.vercel.app/api/top-langs/?username=qts0312&layout=compact&exclude_repo=Pintos)
+![Top Langs](https://github-readme-stats-ten-eta-52.vercel.app/api/top-langs/?username=qts0312&layout=compact&exclude_repo=Pintos,MoEServe)
 
 <!--
 **qts0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
